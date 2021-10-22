@@ -1,0 +1,27 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "list": "cpp",
+        "exception": "cpp",
+        "functional": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "new": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "string_view": "cpp",
+        "cmath": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "utility": "cpp"
+    }
+}
